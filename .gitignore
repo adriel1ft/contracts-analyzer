@@ -1,2 +1,6 @@
 contratos-bndes/
 temp/
+**/__pycache__/
+.venv/
+.env
+*.ipynb
